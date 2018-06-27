@@ -2440,10 +2440,10 @@ input, select, textarea {
 	
 /* TimeLine */
 
-@media screen and (min-width: 0px) and (max-width: 720px) {
+/* @media screen and (min-width: 0px) and (max-width: 720px) {
   .timeline{ display: none; }
   .wrapper.style5{display: none; }
-}
+} */
 
 .timeline {
   position: relative;
