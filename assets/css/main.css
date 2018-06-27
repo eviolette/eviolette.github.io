@@ -2032,7 +2032,9 @@ input, select, textarea {
 		cursor: default;
 		height: 3.5em;
 		line-height: 3.5em;
-		overflow: auto;
+		overflow-x: auto;
+		overflow-y: hidden;
+		white-space: nowrap;
 	}
 
 		#nav ul {
